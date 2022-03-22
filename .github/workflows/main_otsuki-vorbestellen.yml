@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Otsuki-Vorbestellen'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_217F690DFFA1468D872B0296FA6D1035 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D3DF3E3AB01646499AC21FE36D537F61 }}
